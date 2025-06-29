@@ -1,0 +1,45 @@
+.gallery img{
+    width: 100%;
+}
+
+h2{
+    color: cornflowerblue;
+    font-size: 40px;
+    font-family:Impact, fantasy;
+    text-align: center;
+    font-style: italic;
+}
+
+h4{
+    color: cornflowerblue;
+    font-size: 20px;
+    font-family:Impact, fantasy;
+    text-align: left;
+    font-style: italic;
+} 
+
+P{
+    font-family: Hhelvetica, sans-serif;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: #5077bd;
+}
